@@ -3,6 +3,7 @@ import fs from "fs";
 import gerarDescricaoComGemini from "../Services/geminiService.js";
 
 export async function listarPosts(req, res) {
+    //comentario
     // Chama a função para buscar os posts comentario
     const posts = await getTodosPosts();
     // Envia uma resposta HTTP com status 200 (OK) e os posts no formato JSON coementario

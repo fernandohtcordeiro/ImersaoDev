@@ -17,9 +17,9 @@ As principais tecnologias e ferramentas usadas neste projeto são:
 
 ### **1. Clone o Repositório**  
 Faça o clone do repositório no seu ambiente local:  
-```bash
 git clone https://github.com/fernandohtcordeiro/ImersaoDev.git
-2. Configure o Ambiente
+
+## 2. Configure o Ambiente
 Na pasta back-end, crie um arquivo .env com as seguintes variáveis de ambiente:
 
 env
@@ -29,13 +29,11 @@ GEMINI_API_KEY=<Sua chave de acesso à API Gemini>
 3. Instale as Dependências
 Acesse a pasta back-end e instale as dependências do projeto:
 
-bash
 Copiar código
 npm install
 4. Inicie o Servidor
 Execute o servidor em modo de desenvolvimento:
 
-bash
 Copiar código
 npm run dev
 📡 Estrutura do Projeto
@@ -55,12 +53,15 @@ Copiar código
 Após configurar o projeto, você pode testar os endpoints da API utilizando o Postman ou o Thunder Client no VSCode.
 
 Principais Endpoints:
+
 GET /api/usuarios: Retorna todos os usuários cadastrados.
 POST /api/usuarios: Cadastra um novo usuário.
 GET /api/usuarios/:id: Retorna um usuário específico pelo ID.
 PUT /api/usuarios/:id: Atualiza as informações de um usuário.
 DELETE /api/usuarios/:id: Remove um usuário pelo ID.
+
 📌 Objetivos do Projeto
+
 Este projeto faz parte de uma jornada educacional e tem os seguintes objetivos:
 
 Aprender os fundamentos do desenvolvimento back-end.
@@ -70,7 +71,8 @@ Fortalecer o uso de ferramentas como Node.js e MongoDB.
 ✨ Contribuindo com o Projeto
 Contribuições são sempre bem-vindas!
 
-Faça um fork do projeto.
+##Faça um fork do projeto.
+
 Crie uma nova branch para suas alterações:
 bash
 Copiar código
@@ -87,9 +89,6 @@ Abra um pull request para análise.
 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-Desenvolvido com 💻 por Fernando Henrique.
-
-perl
-Copiar código
+##Desenvolvido com 💻 por Fernando Henrique.
 
 Copie e cole esse conteúdo no arquivo `README.md` no seu repositório. Ele está detalhado, completo 

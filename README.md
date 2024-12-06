@@ -37,8 +37,7 @@ Execute o servidor em modo de desenvolvimento:
 Copiar código
 npm run dev
 📡 Estrutura do Projeto
-plaintext
-Copiar código
+
 📁 ImersaoDev
  ├── 📁 back-end
  │    ├── 📁 src
@@ -49,6 +48,8 @@ Copiar código
  │    ├── 📄 package.json
  │    └── 📄 .env (configuração do ambiente)
  └── 📄 README.md
+
+ 
 🧪 Testando a API
 Após configurar o projeto, você pode testar os endpoints da API utilizando o Postman ou o Thunder Client no VSCode.
 
@@ -71,24 +72,22 @@ Fortalecer o uso de ferramentas como Node.js e MongoDB.
 ✨ Contribuindo com o Projeto
 Contribuições são sempre bem-vindas!
 
-##Faça um fork do projeto.
+## Faça um fork do projeto.
 
 Crie uma nova branch para suas alterações:
-bash
+
 Copiar código
 git checkout -b minha-feature
 Faça o commit das suas alterações:
-bash
+
 Copiar código
 git commit -m 'Adiciona minha nova feature'
 Envie suas alterações para o repositório remoto:
-bash
+
 Copiar código
 git push origin minha-feature
 Abra um pull request para análise.
+
 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-##Desenvolvido com 💻 por Fernando Henrique.
-
-Copie e cole esse conteúdo no arquivo `README.md` no seu repositório. Ele está detalhado, completo 
